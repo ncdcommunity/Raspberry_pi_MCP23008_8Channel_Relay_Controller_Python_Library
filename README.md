@@ -5,7 +5,7 @@
 The  MCP23008 is a 8-Channel 1-Amp SPDT Signal Relay Controller.
 This Device is available from www.ncd.io [SKU: MCP23008]
 (https://store.ncd.io/product/8-channel-1-amp-spdt-signal-relay-controller-with-i2c-interface/)
-This Sample code can be used with Raspberry Pi and Arduino.
+This Sample code can be used with Raspberry Pi.
 
 Hardware needed to interface MCP23008 8-Channel Relay Driver With Raspberry Pi :
 1. <a href="https://store.ncd.io/product/8-channel-1-amp-spdt-signal-relay-controller-with-i2c-interface/">MCP23008 8-Channel 1-Amp SPDT Signal Relay Controller</a>
